@@ -1,0 +1,1678 @@
+id: e9a928d869d0413c921b19b76091b379
+annotation_type: index
+revision: '00001'
+annotations:
+  f350d8e5c0a04e928bb78e89ad794d78:
+    work_id: W59AAFE1E
+    span:
+      vol: CIII_§1
+      start: 0
+      end: 202
+  66c6e0f1e2894ce9a507624fc2fd6548:
+    work_id: W0B1B8A49
+    span:
+      vol: CIII_§10
+      start: 0
+      end: 347
+  5752e418cc7345f7b16c256f0118df4b:
+    work_id: WF975FB59
+    span:
+      vol: CIII_§11
+      start: 0
+      end: 465
+  63ab7c2c6bd5474884d5e8cb7b7413c3:
+    work_id: W7D75874E
+    span:
+      vol: CIII_§12
+      start: 0
+      end: 365
+  2d857580db584cc9823ca84767702053:
+    work_id: WA6D2D62C
+    span:
+      vol: CIII_§13
+      start: 0
+      end: 625
+  6f83fd0c350e4118a4438637b1ca7a87:
+    work_id: W28BF7ADD
+    span:
+      vol: CIII_§14
+      start: 0
+      end: 353
+  9835e8ead70943ef82ab19868e3425bc:
+    work_id: WB244BE0F
+    span:
+      vol: CIII_§15
+      start: 0
+      end: 440
+  65b7b9e0084c4083bd08bf8a876bfec7:
+    work_id: WA5D6B476
+    span:
+      vol: CIII_§16
+      start: 0
+      end: 622
+  a218fc90fe56479c9e011a0dce427dec:
+    work_id: W6889F2FF
+    span:
+      vol: CIII_§17
+      start: 0
+      end: 331
+  934f284bd8bc47a18b6a4d9d571b85d0:
+    work_id: WC26FC2FD
+    span:
+      vol: CIII_§18
+      start: 0
+      end: 606
+  1e3b4122e81f44b890d11c225eecbbc2:
+    work_id: WD75AAECA
+    span:
+      vol: CIII_§19
+      start: 0
+      end: 722
+  89644c54796a486d94739d063371503b:
+    work_id: W52E4A033
+    span:
+      vol: CIII_§2
+      start: 0
+      end: 475
+  413f5c2a42c049059d6e9a829ba130b1:
+    work_id: W48E58547
+    span:
+      vol: CIII_§20
+      start: 0
+      end: 304
+  944a5fa8c5e44c4ab8fb284dabfaecd4:
+    work_id: W1EC6E48F
+    span:
+      vol: CIII_§21
+      start: 0
+      end: 410
+  697a29f7c8a34765ae74dad8344f3829:
+    work_id: WFF047A07
+    span:
+      vol: CIII_§22
+      start: 0
+      end: 711
+  e80c7d8e07504cadb37b294cd6c2a4e1:
+    work_id: WB3381685
+    span:
+      vol: CIII_§23
+      start: 0
+      end: 410
+  3fcf2699a5194343a332e8ed97f3b2e3:
+    work_id: WACCCC642
+    span:
+      vol: CIII_§24
+      start: 0
+      end: 68
+  22340268ec6442f2b93a0bda2fea6fc9:
+    work_id: W694D4B9F
+    span:
+      vol: CIII_§25
+      start: 0
+      end: 457
+  bb882c261d804f88a206550586c237eb:
+    work_id: W5C8C9828
+    span:
+      vol: CIII_§26
+      start: 0
+      end: 411
+  62c2af172d9042f69ffb7c95e5636325:
+    work_id: W9A03F530
+    span:
+      vol: CIII_§27
+      start: 0
+      end: 166
+  55ca19f6b6a14f2cb0739047b852488a:
+    work_id: W7E879818
+    span:
+      vol: CIII_§28
+      start: 0
+      end: 231
+  5e2d959fa2a74f009122adcfc02b0329:
+    work_id: W90CB4F64
+    span:
+      vol: CIII_§29
+      start: 0
+      end: 460
+  140056ea65cd441ba2a99f6c417d47c2:
+    work_id: W07F70BA0
+    span:
+      vol: CIII_§3
+      start: 0
+      end: 756
+  ade47bdde7104da2afb39b09af97503e:
+    work_id: WC2ADF2D8
+    span:
+      vol: CIII_§30
+      start: 0
+      end: 401
+  2141d49e17e0407b8f3188549b935e02:
+    work_id: W31F5B44E
+    span:
+      vol: CIII_§31
+      start: 0
+      end: 254
+  d6619bb7a95f46a08bda9e712732a6f9:
+    work_id: WBEA72ECF
+    span:
+      vol: CIII_§32
+      start: 0
+      end: 278
+  2330a68f871b45428854e298b5d11660:
+    work_id: W7C50DAA9
+    span:
+      vol: CIII_§33
+      start: 0
+      end: 588
+  9562fc478a3b4781abed0cf99aa3e9e0:
+    work_id: W214AF712
+    span:
+      vol: CIII_§34
+      start: 0
+      end: 783
+  e08f727faee0493cbb5a86ac83ec4a27:
+    work_id: WBE5F0F89
+    span:
+      vol: CIII_§35
+      start: 0
+      end: 476
+  d3e33d8d049f4c9392447f74fb142e0c:
+    work_id: W39B49294
+    span:
+      vol: CIII_§36
+      start: 0
+      end: 357
+  82afe8639f3e4ebda3f566822e52095f:
+    work_id: WE0BFCE1C
+    span:
+      vol: CIII_§37
+      start: 0
+      end: 261
+  fb9f3821aa044002a019610290171ce7:
+    work_id: WB44D4921
+    span:
+      vol: CIII_§38
+      start: 0
+      end: 576
+  e96eebad916c4a01b136aac29c162321:
+    work_id: WB6EC6BC8
+    span:
+      vol: CIII_§39
+      start: 0
+      end: 746
+  eb81ed71d4ba4ca490d813fc367f9771:
+    work_id: W2D20F435
+    span:
+      vol: CIII_§4
+      start: 0
+      end: 159
+  3e6c031c964f49b49e592889d5977364:
+    work_id: WB6FF561D
+    span:
+      vol: CIII_§40
+      start: 0
+      end: 392
+  8b02157dadb2438d8535986e7ab086be:
+    work_id: W85CF54E9
+    span:
+      vol: CIII_§41
+      start: 0
+      end: 160
+  cf00b43cf7ff4adb839fe063adad89ea:
+    work_id: W2258B690
+    span:
+      vol: CIII_§42
+      start: 0
+      end: 476
+  e7b62d30961f4751898af119675d24bc:
+    work_id: W7E85E4C4
+    span:
+      vol: CIII_§43
+      start: 0
+      end: 395
+  50ab224d782344d2980de1b079f34d0e:
+    work_id: WCC1BE571
+    span:
+      vol: CIII_§44
+      start: 0
+      end: 704
+  34657b1a7c4346548755a5090366ef09:
+    work_id: WC82ABA51
+    span:
+      vol: CIII_§45
+      start: 0
+      end: 270
+  07f60575e8474da98667f1666f164998:
+    work_id: W6303C990
+    span:
+      vol: CIII_§46
+      start: 0
+      end: 345
+  861620be529c4f99a73095ca4c105931:
+    work_id: W04F94E44
+    span:
+      vol: CIII_§47
+      start: 0
+      end: 140
+  6165029d291e493a9eec84ceab0869b2:
+    work_id: W3B5F6225
+    span:
+      vol: CIII_§48
+      start: 0
+      end: 183
+  252ea3d6655546d1a103bdd5c4d6c25a:
+    work_id: W43BD66BA
+    span:
+      vol: CIII_§49
+      start: 0
+      end: 511
+  8f0870771fc04890951f8396e6b3a672:
+    work_id: WBDB471DE
+    span:
+      vol: CIII_§5
+      start: 0
+      end: 417
+  cde96a457ea94ab2ad505b1804400847:
+    work_id: W77DFE7D4
+    span:
+      vol: CIII_§50
+      start: 0
+      end: 447
+  fe53b083e3924d3f82d5f84ddedc7e72:
+    work_id: WAC719AC7
+    span:
+      vol: CIII_§51
+      start: 0
+      end: 766
+  6a951b097f6e4890873f374cf5f8a78f:
+    work_id: W8F5A4BC4
+    span:
+      vol: CIII_§52
+      start: 0
+      end: 1275
+  40cdc0d8e6de4a219e5bffff56a3a665:
+    work_id: WBD55A0D5
+    span:
+      vol: CIII_§53
+      start: 0
+      end: 229
+  836f16d1b24548f597592431d4eadbe1:
+    work_id: W24EE34DA
+    span:
+      vol: CIII_§54
+      start: 0
+      end: 549
+  3f25a61865b34742bb62f7f1e2d8bd9f:
+    work_id: WC734EC3B
+    span:
+      vol: CIII_§55
+      start: 0
+      end: 170
+  f798e8727d324824a1cc0939c37150c4:
+    work_id: W4D108C81
+    span:
+      vol: CIII_§56
+      start: 0
+      end: 229
+  13e10431242c4a10802b05dcaa26f587:
+    work_id: WC2C3BBCB
+    span:
+      vol: CIII_§57
+      start: 0
+      end: 161
+  7b70c2663e514e109ea821ed87c414d7:
+    work_id: W84DE4DF7
+    span:
+      vol: CIII_§58
+      start: 0
+      end: 463
+  85b7f6ac610d48649defb78290e711dc:
+    work_id: W8B37903C
+    span:
+      vol: CIII_§59
+      start: 0
+      end: 418
+  5b6d0cf222764383a3baa640f9551f68:
+    work_id: WC340DD92
+    span:
+      vol: CIII_§6
+      start: 0
+      end: 1016
+  3c89d294168549b89ec849b147790d27:
+    work_id: W466079F4
+    span:
+      vol: CIII_§60
+      start: 0
+      end: 276
+  a7e182abcd844c489565d43f68df05d4:
+    work_id: W1B011E14
+    span:
+      vol: CIII_§61
+      start: 0
+      end: 201
+  c5757a87cb2b4bf0a0d0603496604429:
+    work_id: W4D0B89BD
+    span:
+      vol: CIII_§62
+      start: 0
+      end: 943
+  f09768b7d6f54ca08a3a532095db0fb6:
+    work_id: WBEA1CD24
+    span:
+      vol: CIII_§63
+      start: 0
+      end: 713
+  16af9f6fd3c04a54a0929f5484468f64:
+    work_id: WED3A7C2B
+    span:
+      vol: CIII_§64
+      start: 0
+      end: 1422
+  c96c05d5d6da42788f701c3b17ff9f43:
+    work_id: W6BB86C7C
+    span:
+      vol: CIII_§65
+      start: 0
+      end: 577
+  5d07540fe95f48b095cdfba06062d0ab:
+    work_id: W362246C4
+    span:
+      vol: CIII_§66
+      start: 0
+      end: 722
+  6c4847fd608044dda19d43cf558aa50c:
+    work_id: W3CF00491
+    span:
+      vol: CIII_§67
+      start: 0
+      end: 241
+  ea9be4d46c0a4804927959a16cc8d7db:
+    work_id: W05C07050
+    span:
+      vol: CIII_§68
+      start: 0
+      end: 688
+  bd277b2524db4c29ba25a0cc7047548d:
+    work_id: WEFC9800E
+    span:
+      vol: CIII_§69
+      start: 0
+      end: 261
+  dbea07806d904d2696350c6ef04e5e7d:
+    work_id: WF4FA1AFB
+    span:
+      vol: CIII_§7
+      start: 0
+      end: 309
+  7437f88193104a90a4191d5bc41c9263:
+    work_id: WB1DAF0AE
+    span:
+      vol: CIII_§70
+      start: 0
+      end: 241
+  aaa7617cee154a23b5d28e17ced955e0:
+    work_id: WFB4BBAF2
+    span:
+      vol: CIII_§71
+      start: 0
+      end: 138
+  e9c68e30267344a6b260a5bf043536e0:
+    work_id: WAB02D874
+    span:
+      vol: CIII_§72
+      start: 0
+      end: 609
+  b49a0bdf27db4adc965ba81c37e7051f:
+    work_id: WCFB62342
+    span:
+      vol: CIII_§73
+      start: 0
+      end: 319
+  1769aa2c16d24c4dbfab9e46259865ec:
+    work_id: W189B0252
+    span:
+      vol: CIII_§74
+      start: 0
+      end: 355
+  55b71098fe9249d8acc2c46712918c2e:
+    work_id: W6BC2B8FC
+    span:
+      vol: CIII_§75
+      start: 0
+      end: 656
+  ca8a6c24f86d41bdb47391e02781ee03:
+    work_id: W466BD994
+    span:
+      vol: CIII_§76
+      start: 0
+      end: 237
+  66f2159269414438b43e284b5e73fd68:
+    work_id: WDF4404AD
+    span:
+      vol: CIII_§77
+      start: 0
+      end: 205
+  d1efb1fe41ef463291819c983f374b61:
+    work_id: W6A456516
+    span:
+      vol: CIII_§78
+      start: 0
+      end: 228
+  098046526f8545bc91f0aaa301d6bed7:
+    work_id: WDB4552CC
+    span:
+      vol: CIII_§8
+      start: 0
+      end: 260
+  03dd044d99ef411fb97caa45af1c2790:
+    work_id: W3F33505D
+    span:
+      vol: CIII_§9
+      start: 0
+      end: 243
+  054113c38cbc43bdb0c47dc94ebd1214:
+    work_id: WC59B880B
+    span:
+      vol: CII_§1
+      start: 0
+      end: 704
+  b41d713c31b54c9c87367a10a6a52970:
+    work_id: W48F84A08
+    span:
+      vol: CII_§10
+      start: 0
+      end: 181
+  53b1440a1f114ee9b9bd006c50145527:
+    work_id: WAD99CB33
+    span:
+      vol: CII_§11
+      start: 0
+      end: 618
+  3f742258cf1d419ea30704561d2b468e:
+    work_id: W61AEB24B
+    span:
+      vol: CII_§12
+      start: 0
+      end: 767
+  09203f3bd0b14b6b97b2cf0efeb3b365:
+    work_id: WBDDF0C7D
+    span:
+      vol: CII_§13
+      start: 0
+      end: 241
+  3e4ebe12017342b5a4bdb5e2db90688e:
+    work_id: W933ED6BB
+    span:
+      vol: CII_§2
+      start: 0
+      end: 316
+  80d4e1f42deb477abd3aa1a385a93810:
+    work_id: W724BD1DD
+    span:
+      vol: CII_§3
+      start: 0
+      end: 608
+  c02ff061da9a4362946bab034b50dbf2:
+    work_id: W91550B54
+    span:
+      vol: CII_§4
+      start: 0
+      end: 491
+  ba61be87dc8041c6b72cefc436faf443:
+    work_id: W08A6B5B7
+    span:
+      vol: CII_§5
+      start: 0
+      end: 440
+  04f26635d2bd4e749b8d8e755d1ec609:
+    work_id: WF1F1B745
+    span:
+      vol: CII_§6
+      start: 0
+      end: 343
+  a87f051193f845828b3ea6fa98f3b5b0:
+    work_id: W24B63848
+    span:
+      vol: CII_§7
+      start: 0
+      end: 252
+  a605c8e5d3f74dd0a788952b572d4222:
+    work_id: W8991E2D2
+    span:
+      vol: CII_§8
+      start: 0
+      end: 364
+  b75e9cb8f33d46fcb439ce0ae93f9fcc:
+    work_id: W99E48317
+    span:
+      vol: CII_§9
+      start: 0
+      end: 581
+  951b9245e69e40b7bd2b3310adb354fd:
+    work_id: WEE3EEABE
+    span:
+      vol: CIV_§1
+      start: 0
+      end: 775
+  8e8fbc018927435997ce14c273819207:
+    work_id: W151C9B4C
+    span:
+      vol: CIV_§10
+      start: 0
+      end: 591
+  276bb2b5d2784aa78a96ae5851fdcc0a:
+    work_id: WB4BB6BE3
+    span:
+      vol: CIV_§11
+      start: 0
+      end: 916
+  abeb2de649ad46838bbb4d8c8c79d9d6:
+    work_id: W8A68F2F4
+    span:
+      vol: CIV_§12
+      start: 0
+      end: 754
+  1cc6e8ec80604fd4ad8e019a040ba148:
+    work_id: W21F4367A
+    span:
+      vol: CIV_§13
+      start: 0
+      end: 280
+  877b542fe623431382775fdb6f09b96f:
+    work_id: WB0EF6B7F
+    span:
+      vol: CIV_§14
+      start: 0
+      end: 803
+  d8652d7de22e4307a240fe63eb38326a:
+    work_id: WB24B77CA
+    span:
+      vol: CIV_§15
+      start: 0
+      end: 945
+  582a43fdea68412eb00eeb001e66f02c:
+    work_id: W645C5064
+    span:
+      vol: CIV_§16
+      start: 0
+      end: 346
+  d0b8d2b417b241cc8f645b59f310580c:
+    work_id: WE7F7EDD5
+    span:
+      vol: CIV_§17
+      start: 0
+      end: 808
+  683b5acbf7784a089a8b539310b00ef6:
+    work_id: W488890C6
+    span:
+      vol: CIV_§18
+      start: 0
+      end: 488
+  ded4396e879942158e1cf08fa9e7b3c4:
+    work_id: WC61E4AD7
+    span:
+      vol: CIV_§19
+      start: 0
+      end: 319
+  a9aabfb34d21401a9f3a7b1ddb99e072:
+    work_id: W8FA11EB6
+    span:
+      vol: CIV_§2
+      start: 0
+      end: 597
+  7a00a53f546643dd80a0f1533f13fe98:
+    work_id: WF45549C6
+    span:
+      vol: CIV_§20
+      start: 0
+      end: 3689
+  e18b8cea19874028a2913d7af01d1ab2:
+    work_id: W0958D6E8
+    span:
+      vol: CIV_§3
+      start: 0
+      end: 294
+  ea01591bfe0040c5aace02ee5eb1d722:
+    work_id: W19203E46
+    span:
+      vol: CIV_§4
+      start: 0
+      end: 625
+  60cb50a3b2574715b259355ef90838fd:
+    work_id: W7DCAAAB2
+    span:
+      vol: CIV_§5
+      start: 0
+      end: 291
+  8b54891257b5411ea78a879418609ce4:
+    work_id: WFB22D3B5
+    span:
+      vol: CIV_§6
+      start: 0
+      end: 467
+  e5982eab1a0743a48e24f558177bcdcb:
+    work_id: W5727A3B7
+    span:
+      vol: CIV_§7
+      start: 0
+      end: 393
+  a2b729481b0d4f858c98e2fc63381b77:
+    work_id: W3CCC636D
+    span:
+      vol: CIV_§8
+      start: 0
+      end: 1006
+  afb5816228a14b7799ff3662d964e495:
+    work_id: WA5B77F07
+    span:
+      vol: CIV_§9
+      start: 0
+      end: 453
+  0a079a3f950d4a48a86e415ad58c980e:
+    work_id: W13180512
+    span:
+      vol: CIX_§1
+      start: 0
+      end: 465
+  7930c1afa9594492a3c5cb3feb805ade:
+    work_id: WD72ED596
+    span:
+      vol: CIX_§10
+      start: 0
+      end: 678
+  e0f5cfca028e41e7b212315821427e34:
+    work_id: W48A63A35
+    span:
+      vol: CIX_§11
+      start: 0
+      end: 238
+  bf917b2d324e4fda85b1ab5bc27e2e5d:
+    work_id: W7F7FCAB2
+    span:
+      vol: CIX_§12
+      start: 0
+      end: 529
+  a888157398674f8aa56008287b072a4b:
+    work_id: W5B272A41
+    span:
+      vol: CIX_§13
+      start: 0
+      end: 408
+  b445f032614e4ee590176f368f7dc4e3:
+    work_id: WC1C951C0
+    span:
+      vol: CIX_§14
+      start: 0
+      end: 552
+  f7a04f98803a42c79cb2705b66428073:
+    work_id: W43750E47
+    span:
+      vol: CIX_§15
+      start: 0
+      end: 1552
+  28acbf378fc14531823bd617981605bc:
+    work_id: W7DB721D2
+    span:
+      vol: CIX_§16
+      start: 0
+      end: 492
+  114f9830fd59444faa85fa7c08865973:
+    work_id: W65EEDAC1
+    span:
+      vol: CIX_§17
+      start: 0
+      end: 590
+  18b9625919784316bb72cc27b1824df1:
+    work_id: WD96AD80D
+    span:
+      vol: CIX_§18
+      start: 0
+      end: 1173
+  2e4117a9ed4c4f23b698de1f6d665321:
+    work_id: W30BDB100
+    span:
+      vol: CIX_§2
+      start: 0
+      end: 1224
+  823a43351bac44f8801908e25be5224a:
+    work_id: WC8AEAB0B
+    span:
+      vol: CIX_§3
+      start: 0
+      end: 370
+  33844b3b6f194476ae1a6c6a17b2f0a0:
+    work_id: W92EF96C7
+    span:
+      vol: CIX_§4
+      start: 0
+      end: 979
+  21fc2ee0496541c0944e75f3b87d1e37:
+    work_id: W40CDC6F1
+    span:
+      vol: CIX_§5
+      start: 0
+      end: 790
+  63c380878e0b49abaa98ddadd4546fb9:
+    work_id: W31B53D44
+    span:
+      vol: CIX_§6
+      start: 0
+      end: 823
+  1899114269ab45edb72aea4f7e943fda:
+    work_id: WB6114BE7
+    span:
+      vol: CIX_§7
+      start: 0
+      end: 273
+  957b846138944d9a94a19a722e5f62fc:
+    work_id: WFB8B8111
+    span:
+      vol: CIX_§8
+      start: 0
+      end: 770
+  a7cd2b297ff74089bdc024316593f371:
+    work_id: W4C751745
+    span:
+      vol: CIX_§9
+      start: 0
+      end: 241
+  f46985f4fd5747799a22553b0c04d9f0:
+    work_id: W19BE1ACB
+    span:
+      vol: CI_§1
+      start: 0
+      end: 138
+  6931e60d24cf4f4b8dfc9f276f83ad6f:
+    work_id: WE6488485
+    span:
+      vol: CI_§10
+      start: 0
+      end: 2464
+  57a616d0199447038e4e100c7ebd149f:
+    work_id: WB847DBD4
+    span:
+      vol: CI_§11
+      start: 0
+      end: 832
+  0f8f0c56ab5d46abbe273260500519f6:
+    work_id: W6520B514
+    span:
+      vol: CI_§12
+      start: 0
+      end: 820
+  cbf1d0198f1a4dfca6020d8f13d959e2:
+    work_id: W6CBEBE94
+    span:
+      vol: CI_§13
+      start: 0
+      end: 2646
+  e6810bccabd9409587be4c990ce896bb:
+    work_id: WE60AE711
+    span:
+      vol: CI_§14
+      start: 0
+      end: 896
+  ca0d2eda905343fea783e366c65c08eb:
+    work_id: WC9BC79C5
+    span:
+      vol: CI_§15
+      start: 0
+      end: 733
+  6e148dc789a84ffc93847cfd42367f69:
+    work_id: W347E6096
+    span:
+      vol: CI_§16
+      start: 0
+      end: 791
+  6f6b9d2f57ce4e3f9a91f26ceb61fc4c:
+    work_id: W11FFAA74
+    span:
+      vol: CI_§17
+      start: 0
+      end: 428
+  e06f2ce46b6a4aa3b25b04a583ead8d5:
+    work_id: WB117A908
+    span:
+      vol: CI_§18
+      start: 0
+      end: 532
+  b3c96732855b46d6b00d03c208465006:
+    work_id: WDDAA8787
+    span:
+      vol: CI_§19
+      start: 0
+      end: 277
+  255d186cf4f8411e8fe987a5f924d9f3:
+    work_id: W34B7BBFE
+    span:
+      vol: CI_§2
+      start: 0
+      end: 253
+  9edd5f78f40b4ac89a16ea1aa3f51a3c:
+    work_id: W444F5B65
+    span:
+      vol: CI_§20
+      start: 0
+      end: 564
+  7a8f59c445384718aa578b13526ebe0c:
+    work_id: W991CA41C
+    span:
+      vol: CI_§3
+      start: 0
+      end: 1660
+  b4d77c09bb9a492d92c16df3c02f5159:
+    work_id: W36B7B7D3
+    span:
+      vol: CI_§4
+      start: 0
+      end: 1226
+  c48a656557744b698c0e098ead3de69a:
+    work_id: W54D0E009
+    span:
+      vol: CI_§5
+      start: 0
+      end: 545
+  73174cc98f1e44188ced997e3ce2be90:
+    work_id: WF116709E
+    span:
+      vol: CI_§6
+      start: 0
+      end: 214
+  716d64853a264984bb237bfad8bbf269:
+    work_id: W2289EB86
+    span:
+      vol: CI_§7
+      start: 0
+      end: 395
+  02b8e998430449cd94d4fce846f9f14e:
+    work_id: W62451211
+    span:
+      vol: CI_§8
+      start: 0
+      end: 1139
+  3825b4ba9764486eb676dc444e3b8491:
+    work_id: W421B4362
+    span:
+      vol: CI_§9
+      start: 0
+      end: 197
+  b2e12f5a985249e784e1bad18b37fb8e:
+    work_id: WB48E408C
+    span:
+      vol: CVIII_§1
+      start: 0
+      end: 331
+  817f0d8498c74cd6bc46b2e0e33a282d:
+    work_id: W6BCBBFCB
+    span:
+      vol: CVIII_§10
+      start: 0
+      end: 253
+  3ecaa84610ec4e18b538ce1da5c8f0db:
+    work_id: W39771F36
+    span:
+      vol: CVIII_§11
+      start: 0
+      end: 176
+  2d21be61d5994448b134874931c89b69:
+    work_id: WAD22A1B2
+    span:
+      vol: CVIII_§12
+      start: 0
+      end: 242
+  de8b40ca84834cdcb422b99e46996461:
+    work_id: W4373D254
+    span:
+      vol: CVIII_§13
+      start: 0
+      end: 154
+  4bef14ef4d514b0284f6345cc4297ced:
+    work_id: W009A718D
+    span:
+      vol: CVIII_§14
+      start: 0
+      end: 251
+  d87bd31089de49139e14c82f37137377:
+    work_id: W23122B83
+    span:
+      vol: CVIII_§15
+      start: 0
+      end: 172
+  dc1e3cf3f63e4ebcbc3afd6f244f9284:
+    work_id: W3AF4AE4A
+    span:
+      vol: CVIII_§16
+      start: 0
+      end: 193
+  73550af04c4142dd8d95bed67bf423fb:
+    work_id: W4710E462
+    span:
+      vol: CVIII_§17
+      start: 0
+      end: 345
+  5872ee8367f74f2783887cc58c113b9c:
+    work_id: W378EAF6F
+    span:
+      vol: CVIII_§18
+      start: 0
+      end: 266
+  5c2dafa6f9b44c0d96117176d8e57b10:
+    work_id: W839C14A5
+    span:
+      vol: CVIII_§19
+      start: 0
+      end: 373
+  e8685e6d792849f4a53775a0ad3fb55f:
+    work_id: W29720870
+    span:
+      vol: CVIII_§2
+      start: 0
+      end: 123
+  ee2ddee0aa6c446cb26cefd2ccf72682:
+    work_id: W9D954E85
+    span:
+      vol: CVIII_§20
+      start: 0
+      end: 334
+  cf68155e65b9417089778dc56a506378:
+    work_id: W96FBA96A
+    span:
+      vol: CVIII_§21
+      start: 0
+      end: 303
+  ee09bfafae8c49c08e37728b012f10ce:
+    work_id: W132EDB9F
+    span:
+      vol: CVIII_§22
+      start: 0
+      end: 245
+  20e97bf097004e66a45260d3521dd38b:
+    work_id: WDD43047A
+    span:
+      vol: CVIII_§23
+      start: 0
+      end: 334
+  c8a813fb05b84a7e9088d2ed9878b9a6:
+    work_id: W6AFA64AA
+    span:
+      vol: CVIII_§24
+      start: 0
+      end: 331
+  c76e61531a5049a495653c99a2ebd277:
+    work_id: WC9DE219A
+    span:
+      vol: CVIII_§25
+      start: 0
+      end: 272
+  0f3d6cdb9a1a4e658e671d7ec02b66f8:
+    work_id: W3CA3FA3E
+    span:
+      vol: CVIII_§26
+      start: 0
+      end: 166
+  29b59aa771124e2c8daf1c20644192db:
+    work_id: W41BF8776
+    span:
+      vol: CVIII_§27
+      start: 0
+      end: 163
+  62dc93306c9440399a7a99210e3e801a:
+    work_id: WB5929E3C
+    span:
+      vol: CVIII_§28
+      start: 0
+      end: 234
+  afdf8b38393641af8b60becce5811be9:
+    work_id: WC0FDA07D
+    span:
+      vol: CVIII_§29
+      start: 0
+      end: 336
+  cde80d99d99047c8899f44f7c5743b4a:
+    work_id: WC8425A69
+    span:
+      vol: CVIII_§3
+      start: 0
+      end: 178
+  8ed9cc7d0bbd4542b28247f024a58703:
+    work_id: W90CDEE3F
+    span:
+      vol: CVIII_§30
+      start: 0
+      end: 244
+  fff8b8d00fac4c2c83c5d9d34880b653:
+    work_id: W632F6769
+    span:
+      vol: CVIII_§31
+      start: 0
+      end: 277
+  be518c476d6a4a708e4e9eea494bb3e0:
+    work_id: W2FA801A0
+    span:
+      vol: CVIII_§32
+      start: 0
+      end: 379
+  059600de91104f1084a8da403a5dc31d:
+    work_id: W80C23CAE
+    span:
+      vol: CVIII_§33
+      start: 0
+      end: 565
+  b32483990d8b4b848c784c6e52ddf5a0:
+    work_id: WB89FBF8B
+    span:
+      vol: CVIII_§4
+      start: 0
+      end: 145
+  15b6d73895cf4b1aab3d40dc1fed4867:
+    work_id: W9B3EE412
+    span:
+      vol: CVIII_§5
+      start: 0
+      end: 183
+  2e1a3b059d034309883c42a18256444c:
+    work_id: WEE1BDD6E
+    span:
+      vol: CVIII_§6
+      start: 0
+      end: 177
+  692c757fde2d442bb573f519cb8edba4:
+    work_id: WE9ED285E
+    span:
+      vol: CVIII_§7
+      start: 0
+      end: 199
+  a7b7928aea914bd29d102ff83ae0e4fc:
+    work_id: W4B28FCC4
+    span:
+      vol: CVIII_§8
+      start: 0
+      end: 186
+  d480486dffb74a27bfc39bbb14d5b70c:
+    work_id: WD4A88A36
+    span:
+      vol: CVIII_§9
+      start: 0
+      end: 136
+  53cc113b44df4cf2986da506ae4d48a9:
+    work_id: WFFCF43DD
+    span:
+      vol: CVII_§1
+      start: 0
+      end: 2859
+  c49c74ee707643ea88f3ba20f79242b5:
+    work_id: WCC831947
+    span:
+      vol: CVII_§2
+      start: 0
+      end: 477
+  cfb2e8c71f184822a582b1a0ab46b55a:
+    work_id: WCD8EBE9E
+    span:
+      vol: CVII_§3
+      start: 0
+      end: 1044
+  a6f6272b9f0345eda79f6d184d4f08b6:
+    work_id: WFF89CF3F
+    span:
+      vol: CVII_§4
+      start: 0
+      end: 323
+  51a78de5cc18496eb8a2c131bec881cb:
+    work_id: W47664D1E
+    span:
+      vol: CVII_§5
+      start: 0
+      end: 518
+  500c77fc3cfb475fa85d948b36a62f44:
+    work_id: W2A40205E
+    span:
+      vol: CVII_§6
+      start: 0
+      end: 4547
+  696d885040e34b398e4b4ebcf768c90d:
+    work_id: W097C4230
+    span:
+      vol: CVI_§1
+      start: 0
+      end: 3372
+  40bb24e6c56c4a2c8e30e5ef548695f5:
+    work_id: W83842D8D
+    span:
+      vol: CVI_§10
+      start: 0
+      end: 346
+  99867ff6e14c457ea47e74b102db5669:
+    work_id: WC1A44854
+    span:
+      vol: CVI_§11
+      start: 0
+      end: 209
+  409f7a299c7d4a2985c5d08fb0ba320c:
+    work_id: WC29102F9
+    span:
+      vol: CVI_§12
+      start: 0
+      end: 669
+  6fc8e392b43449b0b4f5fc6d2ca81f6e:
+    work_id: WF25488E2
+    span:
+      vol: CVI_§13
+      start: 0
+      end: 1881
+  d3669e7be0504e7abe543ce1d657ed13:
+    work_id: W0496FD9A
+    span:
+      vol: CVI_§14
+      start: 0
+      end: 455
+  4e853b897fb34080827bef48dcc90180:
+    work_id: WBE62EA80
+    span:
+      vol: CVI_§15
+      start: 0
+      end: 2042
+  6eabffadc2154a23811053a58f664504:
+    work_id: W68581581
+    span:
+      vol: CVI_§16
+      start: 0
+      end: 293
+  0493cd6fe50d4e92a6d1c61fe53d3193:
+    work_id: W5AFC4FF6
+    span:
+      vol: CVI_§2
+      start: 0
+      end: 1389
+  4073409778774046be7115c0df233160:
+    work_id: W02851114
+    span:
+      vol: CVI_§3
+      start: 0
+      end: 248
+  c7c12a400753431cbcf1a39e1a5a246c:
+    work_id: WFE6D3F0E
+    span:
+      vol: CVI_§4
+      start: 0
+      end: 383
+  e95599944a924f65ba0a0343b5a1adee:
+    work_id: W415E4851
+    span:
+      vol: CVI_§5
+      start: 0
+      end: 664
+  466675c6ac954c949a216380c43a784e:
+    work_id: W9CE9902E
+    span:
+      vol: CVI_§6
+      start: 0
+      end: 326
+  47fc6592888b4becb7bc94d1570b93a6:
+    work_id: W517D1856
+    span:
+      vol: CVI_§7
+      start: 0
+      end: 494
+  2eb7905a7fa348708cc9d70dea120529:
+    work_id: W7FCFE36E
+    span:
+      vol: CVI_§8
+      start: 0
+      end: 1038
+  7f86a71756ec4353b47924f096ca7712:
+    work_id: WF1DD2350
+    span:
+      vol: CVI_§9
+      start: 0
+      end: 948
+  a71125d05b0b428abfdaeb186925472d:
+    work_id: W4C14235E
+    span:
+      vol: CV_§1
+      start: 0
+      end: 291
+  59862b9193a449e5b984a29ec263dc79:
+    work_id: WF5D477A7
+    span:
+      vol: CV_§10
+      start: 0
+      end: 589
+  1fd3654e669b4c35aad366be4669db5c:
+    work_id: W634672E7
+    span:
+      vol: CV_§11
+      start: 0
+      end: 368
+  fc4c767783784c91a0c071acc2cbd45c:
+    work_id: WDB5CB2C2
+    span:
+      vol: CV_§12
+      start: 0
+      end: 297
+  4ae7b78f948b4289aaf0f51e461cf2ec:
+    work_id: W3FD62DAD
+    span:
+      vol: CV_§13
+      start: 0
+      end: 506
+  c104808bdf824bc9b9b68f5b13ce3380:
+    work_id: WA29B0864
+    span:
+      vol: CV_§14
+      start: 0
+      end: 608
+  b8e5d44605994e8ca67e0354faec7e33:
+    work_id: W5A978A71
+    span:
+      vol: CV_§15
+      start: 0
+      end: 400
+  e4f49301666142c7b93eb2c2ffdae179:
+    work_id: W48B324E2
+    span:
+      vol: CV_§16
+      start: 0
+      end: 95
+  3a3f29522a4844a1a95039c07f7e88b9:
+    work_id: WD71E5AAA
+    span:
+      vol: CV_§17
+      start: 0
+      end: 323
+  89f4450acc5243eba4d11b8119bf672f:
+    work_id: W398B38C2
+    span:
+      vol: CV_§18
+      start: 0
+      end: 261
+  4c0bf61319f74398828b08710ad8417d:
+    work_id: W6367B8BE
+    span:
+      vol: CV_§19
+      start: 0
+      end: 1056
+  d9b00757db9c43c4b615fad4de6b35ee:
+    work_id: W2415A424
+    span:
+      vol: CV_§2
+      start: 0
+      end: 436
+  482b63804bfd441fb74074905d1bc5ce:
+    work_id: W4355DDA0
+    span:
+      vol: CV_§20
+      start: 0
+      end: 1488
+  f9d872b69ea64e299ebca25b241c278d:
+    work_id: WCE632E42
+    span:
+      vol: CV_§3
+      start: 0
+      end: 812
+  3b7a2c87076b4c0da330c201284e4142:
+    work_id: WF7D3FFAD
+    span:
+      vol: CV_§4
+      start: 0
+      end: 382
+  af08a28d3c2a43cda2e2528d8455bd50:
+    work_id: W74A2A31B
+    span:
+      vol: CV_§5
+      start: 0
+      end: 313
+  4e3db48dc75a41a29f5b57de78f20e60:
+    work_id: WD44F605F
+    span:
+      vol: CV_§6
+      start: 0
+      end: 900
+  1e3754418fa44b9c8385cae373cc79cf:
+    work_id: W231A8101
+    span:
+      vol: CV_§7
+      start: 0
+      end: 736
+  e677c2db965f4b2aba6eeccee1c46aa3:
+    work_id: WC4CA01AB
+    span:
+      vol: CV_§8
+      start: 0
+      end: 849
+  3745f88d1d944ce8806b069a77ecbb09:
+    work_id: W9BB4E8C0
+    span:
+      vol: CV_§9
+      start: 0
+      end: 438
+  0139812e74174706bb7d050a132a484f:
+    work_id: WD5C4F335
+    span:
+      vol: CXII_§1
+      start: 0
+      end: 276
+  8d514a1bb0134fb4844f1cf6da7aee93:
+    work_id: WAE64EFDA
+    span:
+      vol: CXII_§10
+      start: 0
+      end: 469
+  832281692dec43528031290ca1348c64:
+    work_id: WEAB6698E
+    span:
+      vol: CXII_§11
+      start: 0
+      end: 635
+  7aa91ba3b0c64ec99f73ad87c301fbd0:
+    work_id: WE7343DD0
+    span:
+      vol: CXII_§12
+      start: 0
+      end: 767
+  c61df3e6a3474a0f80499af402a20fc8:
+    work_id: W14A61E4D
+    span:
+      vol: CXII_§13
+      start: 0
+      end: 560
+  f28dc745b3424160a5eccd3536899592:
+    work_id: W1901B3C9
+    span:
+      vol: CXII_§14
+      start: 0
+      end: 739
+  9ba189fbd57249a98ad272726780fabf:
+    work_id: W0A7AD7B2
+    span:
+      vol: CXII_§15
+      start: 0
+      end: 1159
+  bcfd6cdd354b4d94a051a94960bcfb6f:
+    work_id: W01EC719B
+    span:
+      vol: CXII_§16
+      start: 0
+      end: 771
+  6189cc093e644024b2af29cb8c4bf6b6:
+    work_id: W87A75954
+    span:
+      vol: CXII_§17
+      start: 0
+      end: 486
+  8d372fd4a4a64b29bd5d58f987f1d442:
+    work_id: W4EE87F55
+    span:
+      vol: CXII_§18
+      start: 0
+      end: 678
+  9012ab745d0f4cc9bc61346430149966:
+    work_id: WA15D125E
+    span:
+      vol: CXII_§19
+      start: 0
+      end: 510
+  9e5ec3e4ed8146788979a1dd303cc6fd:
+    work_id: W5F574373
+    span:
+      vol: CXII_§2
+      start: 0
+      end: 434
+  9a8a5d16a66346a7a8839cfd3ff6ea28:
+    work_id: WB3BC7D71
+    span:
+      vol: CXII_§20
+      start: 0
+      end: 927
+  8af582009747438692c6d46360bd6cac:
+    work_id: W97917811
+    span:
+      vol: CXII_§21
+      start: 0
+      end: 219
+  f19e5f3d3dca4654a64c4f4e001241ed:
+    work_id: WAAC40150
+    span:
+      vol: CXII_§22
+      start: 0
+      end: 444
+  e5b9e1c1fe2244ad9d6d641513fc64b1:
+    work_id: W11EAD2B1
+    span:
+      vol: CXII_§23
+      start: 0
+      end: 1058
+  1368f636ac7548cd8d59189ff552f658:
+    work_id: WB4CCBC95
+    span:
+      vol: CXII_§3
+      start: 0
+      end: 407
+  2321fd8b774c411f8bebb0a34ba1a229:
+    work_id: WA4E2D20C
+    span:
+      vol: CXII_§4
+      start: 0
+      end: 451
+  c9bd13a5bf3446c884e033dc08360b00:
+    work_id: W1A645E42
+    span:
+      vol: CXII_§5
+      start: 0
+      end: 967
+  c6765c0b05c044e8b350506087802c21:
+    work_id: W80B051B2
+    span:
+      vol: CXII_§6
+      start: 0
+      end: 379
+  694f951702a04675aa59f6ad7188b083:
+    work_id: W446DD6B6
+    span:
+      vol: CXII_§7
+      start: 0
+      end: 800
+  1c51fe46f3564f9ca489def1a5753765:
+    work_id: W29F85194
+    span:
+      vol: CXII_§8
+      start: 0
+      end: 565
+  f60201c910904b6fb51d1a4a4059a33c:
+    work_id: WD9F192D1
+    span:
+      vol: CXII_§9
+      start: 0
+      end: 767
+  4d4f398e627d443fb01fd4b0b7571942:
+    work_id: W6926F536
+    span:
+      vol: CXI_§1
+      start: 0
+      end: 2326
+  fc9180a79b024541b69760b24250c5d2:
+    work_id: W3D55C158
+    span:
+      vol: CXI_§2
+      start: 0
+      end: 1207
+  5eba092617fc45d7a1c69dd715cfd69e:
+    work_id: W47DD191A
+    span:
+      vol: CXI_§3
+      start: 0
+      end: 758
+  44386101e88c446498a06cb71a46eb77:
+    work_id: W42A02739
+    span:
+      vol: CXI_§4
+      start: 0
+      end: 1511
+  f0561b69cf114055b1cdb483837e139b:
+    work_id: W6A74AA3A
+    span:
+      vol: CXI_§5
+      start: 0
+      end: 225
+  279719b620ff4af6bacaeab5d1a90fc5:
+    work_id: WC1FF1E65
+    span:
+      vol: CXI_§6
+      start: 0
+      end: 571
+  157c3c0679534c2d90a02f5dd589e07c:
+    work_id: W23DD0B37
+    span:
+      vol: CXI_§7
+      start: 0
+      end: 836
+  bf234029f43b4f7a99fd536a72d02245:
+    work_id: WC4351480
+    span:
+      vol: CXI_§8
+      start: 0
+      end: 730
+  56c9f5ef8350407b8c5d29bce9bff95f:
+    work_id: WA5FAAF0A
+    span:
+      vol: CXI_§9
+      start: 0
+      end: 759
+  77aa19cfd9d14b59872aba860da21b9d:
+    work_id: W7E92FF22
+    span:
+      vol: CX_§1
+      start: 0
+      end: 471
+  1b99a1344dde4e4fb3c4757c37528d91:
+    work_id: WB4422D0D
+    span:
+      vol: CX_§10
+      start: 0
+      end: 261
+  67b86ceb11b94aa08b7f594172534d1c:
+    work_id: WF1A4A8AE
+    span:
+      vol: CX_§11
+      start: 0
+      end: 419
+  84b7b36940784393b4dc9d9ea4747f94:
+    work_id: WE50082BC
+    span:
+      vol: CX_§12
+      start: 0
+      end: 227
+  1839efd76c9f42d1b17195f905739653:
+    work_id: WCB5FA3EF
+    span:
+      vol: CX_§13
+      start: 0
+      end: 901
+  3b5e4c21ed8840dc806c300ea4df8abc:
+    work_id: W56B25383
+    span:
+      vol: CX_§14
+      start: 0
+      end: 736
+  da785a9240d649ecaa53fef324d23a19:
+    work_id: WE41645ED
+    span:
+      vol: CX_§15
+      start: 0
+      end: 575
+  941fec38d78440d2bac8d80b94bbcb89:
+    work_id: W641E9641
+    span:
+      vol: CX_§16
+      start: 0
+      end: 246
+  057cee0438114361924a609b66db2677:
+    work_id: W34C8D1C1
+    span:
+      vol: CX_§17
+      start: 0
+      end: 2076
+  a3125d5021bb45c18a78115109c68a18:
+    work_id: WCB148C58
+    span:
+      vol: CX_§18
+      start: 0
+      end: 1278
+  ebda7f5e52d346b4a78a4d2312e367be:
+    work_id: WDAAE6BB4
+    span:
+      vol: CX_§19
+      start: 0
+      end: 1890
+  710471c140594f0c9d879e21c8d991c0:
+    work_id: W00C3FA5B
+    span:
+      vol: CX_§2
+      start: 0
+      end: 971
+  f6b5251040954593bc161e5bf3530a8f:
+    work_id: WA854A1B4
+    span:
+      vol: CX_§20
+      start: 0
+      end: 574
+  6b66d07f38e0424a960cbe2b3dbe5b06:
+    work_id: W09456D68
+    span:
+      vol: CX_§3
+      start: 0
+      end: 322
+  4a3d6e95ffc0418a84dc9e7349da565c:
+    work_id: W6AFA7954
+    span:
+      vol: CX_§4
+      start: 0
+      end: 510
+  cd101eac53c04988b5cee369142eaa95:
+    work_id: W155CB8D4
+    span:
+      vol: CX_§5
+      start: 0
+      end: 329
+  00ea93aad05e4b77966494bb41cf80b4:
+    work_id: W8EE7ABA2
+    span:
+      vol: CX_§6
+      start: 0
+      end: 448
+  71b508a894e441c28e6938f11b28d061:
+    work_id: WDD5E43BD
+    span:
+      vol: CX_§7
+      start: 0
+      end: 465
+  9f4847ac123640bcbd92254cfcb00c22:
+    work_id: W35E04336
+    span:
+      vol: CX_§8
+      start: 0
+      end: 290
+  c402b9621fde4a95845f366081f07105:
+    work_id: W0EACECA4
+    span:
+      vol: CX_§9
+      start: 0
+      end: 321
+  869f8f8eb5114ab7a8e4b55df4a9b604:
+    work_id: WE0B71540
+    span:
+      vol: Colophon
+      start: 0
+      end: 365
+  b427c14f53324d22995a3bf2fc410334:
+    work_id: W14FBFAF3
+    span:
+      vol: Preface
+      start: 0
+      end: 37
+  ef18d4636b7847ed835b898a4a01dd87:
+    work_id: WB5DDAD35
+    span:
+      vol: Title
+      start: 0
+      end: 20
